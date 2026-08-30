@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoneforce_docs_src=self.webpackChunkoneforce_docs_src||[]).push([["905"],{8812(e){e.exports=JSON.parse('{"metadata":{"permalink":"/oneforce-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

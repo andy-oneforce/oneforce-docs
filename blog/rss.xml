@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>OneForce Docs Blog</title>
+        <link>https://andy-oneforce.github.io/oneforce-docs/blog</link>
+        <description>OneForce Docs Blog</description>
+        <lastBuildDate>Fri, 28 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to the new docs site]]></title>
+            <link>https://andy-oneforce.github.io/oneforce-docs/blog/welcome-to-the-new-docs-site</link>
+            <guid>https://andy-oneforce.github.io/oneforce-docs/blog/welcome-to-the-new-docs-site</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a placeholder first post, demonstrating the traditional blog layout (dated posts,]]></description>
+            <content:encoded><![CDATA[<p>This is a placeholder first post, demonstrating the traditional blog layout (dated posts,
+categories).</p>
+<p><em>(Placeholder — no real OneForce blog content exists yet at this route.)</em></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

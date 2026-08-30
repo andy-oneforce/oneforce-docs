@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoneforce_docs_src=self.webpackChunkoneforce_docs_src||[]).push([["220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/oneforce-docs/blog","blogTitle":"Blog","authorsListPath":"/oneforce-docs/blog/authors"}')}}]);

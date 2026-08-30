@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoneforce_docs_src=self.webpackChunkoneforce_docs_src||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the new docs site","permalink":"/oneforce-docs/blog/welcome-to-the-new-docs-site","unlisted":false,"date":"2026-08-28T00:00:00.000Z"}]}')}}]);
