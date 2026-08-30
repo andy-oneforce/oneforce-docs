@@ -12,6 +12,8 @@
   --of-accent: #d9b466;
   --of-glass-border: rgba(255, 255, 255, 0.14);
 
+  --ifm-color-content-secondary: var(--of-muted);
+
   --ifm-color-primary: var(--of-accent);
   --ifm-color-primary-dark: #cfa64f;
   --ifm-color-primary-darker: #c49c46;
