@@ -5,7 +5,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'OneForce Docs',
   tagline: 'Documentation for OneForce',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
+
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
+  headTags: [
+    {tagName: 'link', attributes: {rel: 'preconnect', href: 'https://fonts.googleapis.com'}},
+    {tagName: 'link', attributes: {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous'}},
+  ],
 
   future: {
     v4: true,
@@ -55,7 +66,9 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
-        respectPrefersColorScheme: true,
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'OneForce Docs',
